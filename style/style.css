@@ -49,10 +49,8 @@ padding: 3px 5px;
    display: flex;
   flex-direction: column;
   justify-content: space-between;
-
-border-radius: 6px;
+  border-radius: 3px;
   padding: 30px 20px ;
-  
 }
 .cars__img{
    position: absolute;
@@ -96,4 +94,7 @@ padding: 4px 12px;
 color: #FFFFFF;
 border-radius: 3px;
 
+}
+body{
+   background: rgba(73, 41, 146, 0.603);
 }
